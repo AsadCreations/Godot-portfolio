@@ -39,7 +39,7 @@ Atmospheric exploration game across floating islands, built for mobile with on-s
 
 **Tech:** Godot, GDScript, mobile touch input (virtual joystick), parallax/atmosphere shaders
 
-<video src="https://github.com/AsadCreations/Godot-portfolio/raw/main/skyark-demo.mp4" controls width="500"></video>
+https://github.com/user-attachments/assets/c481974b-1c21-4203-ab22-1beb1b0e9f77
 
 ---
 
@@ -48,7 +48,7 @@ Minimalist monochrome side-scrolling platformer — a torch-carrying character e
 
 **Tech:** Godot, GDScript, CanvasModulate/lighting, custom pixel-art character animation
 
-<video src="https://github.com/AsadCreations/Godot-portfolio/raw/main/side-scroller-demo.mp4" controls width="500"></video>
+https://github.com/user-attachments/assets/cce8de1d-9ef4-4b95-9ae3-b34e3ad5146d
 
 ---
 
@@ -57,7 +57,7 @@ Sci-fi 2D platformer/adventure title — contributed gameplay and item-system sc
 
 **Tech:** Godot, GDScript, item/inventory system, scene transition manager
 
-<video src="https://github.com/AsadCreations/Godot-portfolio/raw/main/foss-the-alien-demo.mp4" controls width="500"></video>
+https://github.com/user-attachments/assets/22d1ac31-9280-4e3e-95af-e95f2899cb2a
 
 ---
 
@@ -68,7 +68,7 @@ Classic Tetris gameplay (full tetromino set, next-piece preview, line-clear logi
 
 ![Tetris Duel Gameplay](tetris-duel.jpg)
 
-<video src="https://github.com/AsadCreations/Godot-portfolio/raw/main/tetris-duel-demo.mp4" controls width="500"></video>
+https://github.com/user-attachments/assets/6000f938-1189-44f1-8f21-0c86b3d7ed54
 
 ---
 
@@ -79,7 +79,7 @@ Complete, rules-accurate chess game — legal move highlighting, full piece set,
 
 ![Chess Game](chess-game.jpg)
 
-<video src="https://github.com/AsadCreations/Godot-portfolio/raw/main/chess-game-demo.mp4" controls width="500"></video>
+https://github.com/user-attachments/assets/99ec29fc-5bc0-4608-ac93-cac16c08ba9a
 
 ---
 
