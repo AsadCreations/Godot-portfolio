@@ -10,7 +10,7 @@
 
 **Tech:** GDScript · C# · TileMaps & TileSets · AnimatedSprite/state machines · Godot UI (Control nodes) · Mobile touch input · WebGL/Android export
 
-📫 Available for freelance work — [Fiverr](https://www.fiverr.com/) · See profile: [@AsadCreations](https://github.com/AsadCreations)
+📫 Available for freelance work — [Fiverr](https://www.fiverr.com/asad_services4u/develop-2d-game-design-using-godot-engine-and-renpy-engine) · See profile: [@AsadCreations](https://github.com/AsadCreations)
 
 ---
 
@@ -117,6 +117,6 @@ Low-poly Japanese village environment test — buildings, shrine props, and char
 
 ## 📫 Contact
 
-- Fiverr: *(https://www.fiverr.com/asad_services4u/develop-2d-game-design-using-godot-engine-and-renpy-engine)*
-- Email: *(asad8service4u@gmail.com)*
+- Fiverr: [Hire me on Fiverr](https://www.fiverr.com/asad_services4u/develop-2d-game-design-using-godot-engine-and-renpy-engine)
+- Email: asad8service4u@gmail.com
 - GitHub: [@AsadCreations](https://github.com/AsadCreations)
